@@ -1,0 +1,114 @@
+h1{
+    text-align: center;
+    color: #0866ff;
+    font-size: 60px;
+    text-shadow: 3px 2px 1px rgb(135, 127, 127);
+    
+}
+#box{
+     border: 2px solid white;
+     border-radius: 7px;
+     height: 700px;
+     width: 400px;
+     background-color: rgb(255, 253, 253);
+     box-shadow: 2px 2px 2px 2px rgb(144, 140, 140);
+     text-align: center; 
+     position: relative;
+     margin-left: 550px;
+}
+body{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-size: 25px;
+}
+
+.f1{
+    text-align: left;
+    margin-left: 40px;
+    position: relative;
+}
+#box1{
+    margin-left: 300px;
+}
+#bu{
+    color: white;
+    background-color: #00a400;
+    text-align: center;
+    height: 35px;
+    width: 150px;
+    border-radius: 4px;
+    
+}
+#bu:hover{
+    background-color: rgb(7, 116, 7);
+    color: rgb(213, 207, 207);
+}
+#t1{
+    height: 30px;
+    width: 148px;
+    border-radius: 4px;
+}
+#t2{
+    height: 30px;
+    width: 140px;
+    border-radius: 4px;
+}
+#t3{
+    height: 30px;
+    width: 300px;
+    margin-top: 15px;
+    border-radius: 4px;
+    
+}
+#t4{
+    border-radius: 4px;
+    height: 30px;
+    width: 300px;
+    margin-top: 15px;
+
+}
+#date{
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    border-radius: 4px;
+}
+#mon{
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    border-radius: 4px;
+}
+#year{
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+#fe,#ma,#cu{
+    padding: 0px 10px;
+}
+.ge{
+    display: inline-block;
+    border: 1px solid rgb(122, 120, 120);
+    width: 98px;
+    height: 30px;
+    
+    border-radius: 4px;
+    margin-left: 2px;
+}
+p{
+    color: green;
+}
+#li{
+    font-size: 20px;
+}
+.gender{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+    
